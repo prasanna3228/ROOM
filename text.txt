@@ -9,5 +9,3 @@ new_person=20,30,20
 3-5-23= 20 (evening eggs onions) 
 5-5-23= 55 (night curries)
 7-5-23= 25 (water can)
-
-as
