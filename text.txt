@@ -1,0 +1,11 @@
+16 to 20 april =watercan(75), rice(250), curries(250), vegitables(80)
+
+
+new_person=20,30,20
+
+
+2-5-23= 25 (watercan)
+3-5-23= 35 (lemon_rice(15) nuts(15) mirchi(5))
+3-5-23= 20 (evening eggs onions) 
+5-5-23= 55 (night curries)
+7-5-23= 25 (water can)
